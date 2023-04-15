@@ -52,3 +52,13 @@
 ```
 
     
+
+---
+
+![](./4-productive-time.svg)
+
+```
+![](https://raw.githubusercontent.com/wegoYoo/claire92/main/profile-summary-card-output/calm/4-productive-time.svg)
+```
+
+    
